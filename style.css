@@ -1,10 +1,10 @@
 header {
-    background-color: aqua;
+    background-color: rgb(47, 0, 255);
     padding: 20px;
     margin: 20px;
 }
 body {
-    background-color: rgb(48, 107, 149);
+    background-color: rgb(43, 49, 53);
 }
 li {
     display: inline;
